@@ -22,7 +22,7 @@ Click 👉 [here](https://naveen-kumawat.github.io/svg-world-map/) to view the l
 
 ## Developer
 This project was developed by [Naveen Kumawat](https://github.com/naveen-kumawat).
-Contact: [naveen@example.com](mailto:nk75kumawat@gmail.com)
+Contact: [nk75kumawat@gmail.com](mailto:nk75kumawat@gmail.com)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
