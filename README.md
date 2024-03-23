@@ -23,8 +23,15 @@ Click [here](https://naveen-kumawat.github.io/svg-world-map/) to view the live d
 ## Result
 ![SVG Map](https://github.com/naveen-kumawat/svg-world-map/assets/63699592/7f5fd329-73e2-4998-bc99-1acd9228f4bb)
 
+## Developer
+This project was developed by [Naveen Kumawat](https://github.com/naveen-kumawat).
+Contact: [naveen@example.com](mailto:naveen@example.com)
+
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Developer 
+
