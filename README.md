@@ -5,6 +5,9 @@ Create an interactive SVG world map using HTML, CSS, and JS. This project aims t
 ## Live Preview
 Click 👉 [here](https://naveen-kumawat.github.io/svg-world-map/) to view the live demo 😍.
 
+## Video Demo
+Watch the project in action on YouTube: [SVG World Map Demo](https://www.youtube.com/watch?v=your_video_id)
+
 ## Features
 - Interactive: Users can hover over countries to see information or click for further interaction.
 - Customizable: Easily customize the map's appearance and behavior according to your needs.
