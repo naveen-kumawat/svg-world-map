@@ -1,7 +1,30 @@
-# svg-world-map
-Create interactive SVG world map  using HTML, CSS and JS
+# Interactive SVG World Map 
 
-## Live Pre -
-Click - https://naveen-kumawat.github.io/svg-world-map/
-### Result -
-![svg map](https://github.com/naveen-kumawat/svg-world-map/assets/63699592/7f5fd329-73e2-4998-bc99-1acd9228f4bb)
+Create an interactive SVG world map using HTML, CSS, and JS.
+
+## Live Preview
+Click [here](https://naveen-kumawat.github.io/svg-world-map/) to view the live demo.
+
+## Features
+- Interactive: Users can hover over countries to see information or click for further interaction.
+- Customizable: Easily customize the map's appearance and behavior according to your needs.
+- Lightweight: Utilizes SVG for scalability and performance.
+
+## Usage
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/naveen-kumawat/svg-world-map.git
+    ```
+
+2. Open `index.html` in your web browser to see the map in action.
+
+3. Modify `search4code.js` and `search4code.css` to customize the map according to your requirements.
+
+## Result
+![SVG Map](https://github.com/naveen-kumawat/svg-world-map/assets/63699592/7f5fd329-73e2-4998-bc99-1acd9228f4bb)
+
+## Contributing
+Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
